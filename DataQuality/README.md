@@ -16,8 +16,7 @@ Este repositório mostra, em pequenos scripts Python, como:
 
 | Script                           | Dataset            | Tamanho                | Observações                                            |
 |----------------------------------|--------------------|------------------------|--------------------------------------------------------|
-| `air_quality_missing_outlier_model.py` | Air Quality UCI    | ~9 k linhas, 15 colunas | Substitui `-200` por `NaN` antes da imputação          |
-| `iris_missing_outlier_model.py`        | Iris               | 150 linhas, 5 colunas  | Padroniza nomes de colunas em minúsculas               |
+| `Iris_missing_outlier.py`        | Iris               | 150 linhas, 5 colunas  | Padroniza nomes de colunas em minúsculas               |
 
 Cada ficheiro segue as **5 secções-chave**:
 
